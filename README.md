@@ -5,3 +5,7 @@ This is the [Adjust](https://adjust.com)™ Signature library. To download the l
 ## Integration & Testing
 
 Documentation is available on our [Help Center](https://help.adjust.com/en/article/sdk-signature).
+
+## Support
+
+As account information is almost surely required, reach out to your Adjust representative or email [support@adjust.com](mailto:support@adjust.com), for support regarding Signature.
